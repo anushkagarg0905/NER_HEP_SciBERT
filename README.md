@@ -175,7 +175,7 @@ for token classification using the Hugging Face Transformers framework.
 
 | Model | Precision | Recall | F1-Score |
 |---|---|---|---|
-| BERT-base-uncased | 0.9430 | 0.9575 | 0.9502 |
+| BERT-base-uncased | 0.8773 | 0.9112 | 0.8939 |
 | SciBERT (Ours) | 0.9562 | 0.9756 | 0.9658 |
 
 ---
