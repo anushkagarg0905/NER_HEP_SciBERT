@@ -52,25 +52,18 @@ The results demonstrate that transformer-based scientific language models can ef
 ```bash
 HEP-NER-SciBERT/
 │
-├── paper/
-│   └── research_paper.pdf
+├── Research Paper/
+│   └── NER_Paper_Final.pdf
 │
 ├── dataset/
-│   ├── hep_raw.csv
-│   ├── hep_bio.csv
-│   └── label_mapping.json
+│   ├── hep_raw_.csv
+│   ├── hep_bio_.csv
+│   └── hep_entities_.csv
 │
 ├── notebooks/
-│   └── train_scibert_hep_ner.ipynb
+│   └── NER_HEP.ipynb
 │
-├── results/
-│   ├── entity_confusionmatrix.png
-│   ├── loss_and_f(1).png
-│   ├── comparision_graph.png
-|   └── BIO_label.png
-|   └── entity_mention.png
-|   └── performance_compare.png
-│
+├── figures/
 ├── requirements.txt
 └── README.md
 ```
